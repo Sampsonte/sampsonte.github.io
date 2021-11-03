@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sampsonte166.carrd.co/sitemap.xml
